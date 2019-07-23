@@ -1,3 +1,4 @@
+npm install -g @vue/cli
 vue create $1
 cd $1
 npm install vue-router
